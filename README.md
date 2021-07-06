@@ -1,6 +1,3 @@
-
-Aircnc
-
 Aircnc - Air Code and Coffeecomputercoffee
 Projeto desenvolvido durante a semana OmniStack da Rocketseat. Aplicação fullstack que permite realizar a reserva de Spots para empresas e desenvolvedores, em tempo real utilizando socket.io.
 
@@ -8,7 +5,7 @@ Instalação
 Backend/API
 Clone este repositório e instale as dependências dentro da pasta aircnc/backend
 
-git clone https://github.com/robertomendoncaa/aircnc.git
+git clone https://github.com/Mikeofic/aircnc.git
 cd aircnc/backend
 yarn
 # ou
